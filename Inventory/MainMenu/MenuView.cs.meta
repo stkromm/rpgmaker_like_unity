@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f39e2cfefa2d7f541ad472aa45256bf8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BackgroundTexture: {instanceID: 0}
+  - ArmorSkin: {instanceID: 0}
+  - Skin: {fileID: 11400000, guid: fb2a3a1c7d8b34f4faed99bcee0ef586, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

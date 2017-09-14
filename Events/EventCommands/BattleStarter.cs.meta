@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 963aa241144780b4eb216e071a6fb4a9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BattleSaves: {fileID: 100000, guid: dfdd32d06f0759049ade6da2818c5c46, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
